@@ -18,15 +18,214 @@ Students have the option to submit either a single term paper or two short paper
     
 *   Submit your paper(s). If you write two short papers, the due dates are Week 7 and Week 12. If you write one paper, the due date is Week 12. Late papers will not be accepted and will be given a failing grade.
 
-| WEEK # | REACTION PAPERS |
-| --- | --- |
-| 2 |  {{< br >}}{{< br >}} Jenny Suckale ([PDF]({{< baseurl >}}/resources/jenny_suckale1)) {{< br >}}{{< br >}} Naohiko Omata ([PDF]({{< baseurl >}}/resources/naohiko_omata1)) {{< br >}}{{< br >}} Timothy Russell ([PDF]({{< baseurl >}}/resources/timothy_russell1)) {{< br >}}{{< br >}} Tristan Weir ([PDF]({{< baseurl >}}/resources/tristan_weir1)) {{< br >}}{{< br >}} Yumiko Nakagawa ([PDF]({{< baseurl >}}/resources/yumiko_nakagawa1)) {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} Naohiko Omata ([PDF]({{< baseurl >}}/resources/naohiko_omata3)) {{< br >}}{{< br >}} Timothy Russell ([PDF]({{< baseurl >}}/resources/timothy_russell3)) {{< br >}}{{< br >}} Tristan Weir ([PDF]({{< baseurl >}}/resources/tristan_weir3)) {{< br >}}{{< br >}} Yumiko Nakagawa ([PDF]({{< baseurl >}}/resources/yumiko_nakagawa3)) {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Jenny Suckale ([PDF]({{< baseurl >}}/resources/jenny_suckale4)) {{< br >}}{{< br >}} Naohiko Omata ([PDF]({{< baseurl >}}/resources/naohiko_omata4)) {{< br >}}{{< br >}} Timothy Russell ([PDF]({{< baseurl >}}/resources/timothy_russell4)) {{< br >}}{{< br >}} Tristan Weir ([PDF]({{< baseurl >}}/resources/tristan_weir4)) {{< br >}}{{< br >}} Yumiko Nakagawa ([PDF]({{< baseurl >}}/resources/yumiko_nakagawa4)) {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} Jenny Suckale ([PDF]({{< baseurl >}}/resources/jenny_suckale5)) {{< br >}}{{< br >}} Naohiko Omata ([PDF]({{< baseurl >}}/resources/naohiko_omata5)) {{< br >}}{{< br >}} Timothy Russell ([PDF]({{< baseurl >}}/resources/timothy_russell5)) {{< br >}}{{< br >}} Tristan Weir ([PDF]({{< baseurl >}}/resources/tristan_weir5)) {{< br >}}{{< br >}} Yumiko Nakagawa ([PDF]({{< baseurl >}}/resources/yumiko_nakagawa5)) {{< br >}}{{< br >}}  |
-| 6 |  {{< br >}}{{< br >}} Jenny Suckale ([PDF]({{< baseurl >}}/resources/jenny_suckale6)) {{< br >}}{{< br >}} Naohiko Omata ([PDF]({{< baseurl >}}/resources/naohiko_omata6)) {{< br >}}{{< br >}} Timothy Russell ([PDF]({{< baseurl >}}/resources/timothy_russell6)) {{< br >}}{{< br >}} Tristan Weir ([PDF]({{< baseurl >}}/resources/tristan_weir6)) {{< br >}}{{< br >}} Yumiko Nakagawa ([PDF]({{< baseurl >}}/resources/yumiko_nakagawa6)) {{< br >}}{{< br >}}  |
-| 7 |  {{< br >}}{{< br >}} Naohiko Omata ([PDF]({{< baseurl >}}/resources/naohiko_omata7)) {{< br >}}{{< br >}} Timothy Russell ([PDF]({{< baseurl >}}/resources/timothy_russell7)) {{< br >}}{{< br >}} Tristan Weir ([PDF]({{< baseurl >}}/resources/tristan_weir7)) {{< br >}}{{< br >}} Yumiko Nakagawa ([PDF]({{< baseurl >}}/resources/yumiko_nakagawa7)) {{< br >}}{{< br >}}  |
-| 8 |  {{< br >}}{{< br >}} Jenny Suckale ([PDF]({{< baseurl >}}/resources/jenny_suckale8)) {{< br >}}{{< br >}} Naohiko Omata ([PDF]({{< baseurl >}}/resources/naohiko_omata8)) {{< br >}}{{< br >}} Timothy Russell ([PDF]({{< baseurl >}}/resources/timothy_russell8)) {{< br >}}{{< br >}} Tristan Weir ([PDF]({{< baseurl >}}/resources/tristan_weir8)) {{< br >}}{{< br >}}  |
-| 9 |  {{< br >}}{{< br >}} Jenny Suckale ([PDF]({{< baseurl >}}/resources/jenny_suckale9)) {{< br >}}{{< br >}} Naohiko Omata ([PDF]({{< baseurl >}}/resources/naohiko_omata9)) {{< br >}}{{< br >}} Timothy Russell ([PDF]({{< baseurl >}}/resources/timothy_russell9)) {{< br >}}{{< br >}} Tristan Weir ([PDF]({{< baseurl >}}/resources/tristan_weir9)) {{< br >}}{{< br >}} Yumiko Nakagawa ([PDF]({{< baseurl >}}/resources/yumiko_nakagawa9)) {{< br >}}{{< br >}}  |
-| 10 |  {{< br >}}{{< br >}} Response Questions ([PDF]({{< baseurl >}}/resources/respons_question)) {{< br >}}{{< br >}} Jenny Suckale ([PDF]({{< baseurl >}}/resources/jenny_suckale10)) {{< br >}}{{< br >}} Naohiko Omata ([PDF]({{< baseurl >}}/resources/naohiko_omata10)) {{< br >}}{{< br >}} Timothy Russell ([PDF]({{< baseurl >}}/resources/timothy_russel10)) {{< br >}}{{< br >}} Tristan Weir ([PDF]({{< baseurl >}}/resources/tristan_weir10)) {{< br >}}{{< br >}}  |
-| 11 |  {{< br >}}{{< br >}} Case Outline ([PDF]({{< baseurl >}}/resources/case_outline)) {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+REACTION PAPERS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Jenny Suckale ([PDF]({{< baseurl >}}/resources/jenny_suckale1))
+
+Naohiko Omata ([PDF]({{< baseurl >}}/resources/naohiko_omata1))
+
+Timothy Russell ([PDF]({{< baseurl >}}/resources/timothy_russell1))
+
+Tristan Weir ([PDF]({{< baseurl >}}/resources/tristan_weir1))
+
+Yumiko Nakagawa ([PDF]({{< baseurl >}}/resources/yumiko_nakagawa1))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Naohiko Omata ([PDF]({{< baseurl >}}/resources/naohiko_omata3))
+
+Timothy Russell ([PDF]({{< baseurl >}}/resources/timothy_russell3))
+
+Tristan Weir ([PDF]({{< baseurl >}}/resources/tristan_weir3))
+
+Yumiko Nakagawa ([PDF]({{< baseurl >}}/resources/yumiko_nakagawa3))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Jenny Suckale ([PDF]({{< baseurl >}}/resources/jenny_suckale4))
+
+Naohiko Omata ([PDF]({{< baseurl >}}/resources/naohiko_omata4))
+
+Timothy Russell ([PDF]({{< baseurl >}}/resources/timothy_russell4))
+
+Tristan Weir ([PDF]({{< baseurl >}}/resources/tristan_weir4))
+
+Yumiko Nakagawa ([PDF]({{< baseurl >}}/resources/yumiko_nakagawa4))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Jenny Suckale ([PDF]({{< baseurl >}}/resources/jenny_suckale5))
+
+Naohiko Omata ([PDF]({{< baseurl >}}/resources/naohiko_omata5))
+
+Timothy Russell ([PDF]({{< baseurl >}}/resources/timothy_russell5))
+
+Tristan Weir ([PDF]({{< baseurl >}}/resources/tristan_weir5))
+
+Yumiko Nakagawa ([PDF]({{< baseurl >}}/resources/yumiko_nakagawa5))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Jenny Suckale ([PDF]({{< baseurl >}}/resources/jenny_suckale6))
+
+Naohiko Omata ([PDF]({{< baseurl >}}/resources/naohiko_omata6))
+
+Timothy Russell ([PDF]({{< baseurl >}}/resources/timothy_russell6))
+
+Tristan Weir ([PDF]({{< baseurl >}}/resources/tristan_weir6))
+
+Yumiko Nakagawa ([PDF]({{< baseurl >}}/resources/yumiko_nakagawa6))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Naohiko Omata ([PDF]({{< baseurl >}}/resources/naohiko_omata7))
+
+Timothy Russell ([PDF]({{< baseurl >}}/resources/timothy_russell7))
+
+Tristan Weir ([PDF]({{< baseurl >}}/resources/tristan_weir7))
+
+Yumiko Nakagawa ([PDF]({{< baseurl >}}/resources/yumiko_nakagawa7))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Jenny Suckale ([PDF]({{< baseurl >}}/resources/jenny_suckale8))
+
+Naohiko Omata ([PDF]({{< baseurl >}}/resources/naohiko_omata8))
+
+Timothy Russell ([PDF]({{< baseurl >}}/resources/timothy_russell8))
+
+Tristan Weir ([PDF]({{< baseurl >}}/resources/tristan_weir8))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Jenny Suckale ([PDF]({{< baseurl >}}/resources/jenny_suckale9))
+
+Naohiko Omata ([PDF]({{< baseurl >}}/resources/naohiko_omata9))
+
+Timothy Russell ([PDF]({{< baseurl >}}/resources/timothy_russell9))
+
+Tristan Weir ([PDF]({{< baseurl >}}/resources/tristan_weir9))
+
+Yumiko Nakagawa ([PDF]({{< baseurl >}}/resources/yumiko_nakagawa9))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Response Questions ([PDF]({{< baseurl >}}/resources/respons_question))
+
+Jenny Suckale ([PDF]({{< baseurl >}}/resources/jenny_suckale10))
+
+Naohiko Omata ([PDF]({{< baseurl >}}/resources/naohiko_omata10))
+
+Timothy Russell ([PDF]({{< baseurl >}}/resources/timothy_russel10))
+
+Tristan Weir ([PDF]({{< baseurl >}}/resources/tristan_weir10))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Case Outline ([PDF]({{< baseurl >}}/resources/case_outline))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
