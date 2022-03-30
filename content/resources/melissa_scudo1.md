@@ -4,6 +4,7 @@ description: This resource is the reaction paper by Melissa Scudo on the topic '
   Vulnerability and Social Resilience'.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/18ce4057ba34a2ed72f3305d0e4ccf42_melissa_scudo1.pdf
 file_type: application/pdf
+parent_uid: 025decc2-3746-51df-f1f2-1fd5ad489b6e
 resourcetype: Document
 title: melissa_scudo1.pdf
 uid: 18ce4057-ba34-a2ed-72f3-305d0e4ccf42

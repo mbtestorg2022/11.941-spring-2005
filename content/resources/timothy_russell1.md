@@ -6,6 +6,7 @@ description: 'This resource is the reaction paper by Timothy Russell on the topi
   Disasters: The accumulation of Risk in Urban Areas'', and ''Reaction''.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/6bb489662dba20bb8dda8aad635e4c43_timothy_russell1.pdf
 file_type: application/pdf
+parent_uid: 025decc2-3746-51df-f1f2-1fd5ad489b6e
 resourcetype: Document
 title: timothy_russell1.pdf
 uid: 6bb48966-2dba-20bb-8dda-8aad635e4c43

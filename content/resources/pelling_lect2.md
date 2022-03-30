@@ -4,6 +4,7 @@ description: This resource contains the global science and policy context, urban
   and measuring vulnerability.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/8d9573556bd7a63ec13af323de9b6a2d_pelling_lect2.pdf
 file_type: application/pdf
+parent_uid: c465cf36-b2cd-f07c-c5dc-7a10d5f64453
 resourcetype: Document
 title: pelling_lect2.pdf
 uid: 8d957355-6bd7-a63e-c13a-f323de9b6a2d

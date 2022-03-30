@@ -6,6 +6,7 @@ description: 'This resource covers problem definition
   and feedback.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/d5c88781e5e8d69b41f4791f6fa0a903_birkland_lect8_s.pdf
 file_type: application/pdf
+parent_uid: c465cf36-b2cd-f07c-c5dc-7a10d5f64453
 resourcetype: Document
 title: birkland_lect8_s.pdf
 uid: d5c88781-e5e8-d69b-41f4-791f6fa0a903

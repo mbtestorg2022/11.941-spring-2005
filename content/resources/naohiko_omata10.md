@@ -5,6 +5,7 @@ description: This resource is the reaction paper by Naohiko Omata on the topics 
   and 'resonate themes'.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/8a539c1ee5e9c0e9a15f0f8826be9151_naohiko_omata10.pdf
 file_type: application/pdf
+parent_uid: 025decc2-3746-51df-f1f2-1fd5ad489b6e
 resourcetype: Document
 title: naohiko_omata10.pdf
 uid: 8a539c1e-e5e9-c0e9-a15f-0f8826be9151

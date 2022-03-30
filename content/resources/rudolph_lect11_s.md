@@ -6,6 +6,7 @@ description: 'This resource contains the following topics:
   analysis introduction, and summing up: what are the "take-aways".'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/ce9ab560dafbaa2300aecb0e76fda7dd_rudolph_lect11_s.pdf
 file_type: application/pdf
+parent_uid: c465cf36-b2cd-f07c-c5dc-7a10d5f64453
 resourcetype: Document
 title: rudolph_lect11_s.pdf
 uid: ce9ab560-dafb-aa23-00ae-cb0e76fda7dd

@@ -4,6 +4,7 @@ description: This resource is the reaction paper by the student on the topic 'Th
   Error, and Resilience in High Hazard Settings'.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/88329dcb45ef608ef5b22332b4416178_amy_mowl11.pdf
 file_type: application/pdf
+parent_uid: 025decc2-3746-51df-f1f2-1fd5ad489b6e
 resourcetype: Document
 title: amy_mowl11.pdf
 uid: 88329dcb-45ef-608e-f5b2-2332b4416178

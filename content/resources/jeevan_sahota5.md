@@ -4,6 +4,7 @@ description: This resource is the reaction paper by Jeevan Sahota on the topic '
   Policy and Institutions'.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/310255344d73dd139a526c22b5e0ab08_jeevan_sahota5.pdf
 file_type: application/pdf
+parent_uid: 025decc2-3746-51df-f1f2-1fd5ad489b6e
 resourcetype: Document
 title: jeevan_sahota5.pdf
 uid: 31025534-4d73-dd13-9a52-6c22b5e0ab08

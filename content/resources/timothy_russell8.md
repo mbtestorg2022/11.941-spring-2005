@@ -4,6 +4,7 @@ description: This resource is the reaction paper by Timothy Russell on the topic
   Politics and Agenda Setting'.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/7521576fe2a5ba22e2ea4a10e0d18606_timothy_russell8.pdf
 file_type: application/pdf
+parent_uid: 025decc2-3746-51df-f1f2-1fd5ad489b6e
 resourcetype: Document
 title: timothy_russell8.pdf
 uid: 7521576f-e2a5-ba22-e2ea-4a10e0d18606

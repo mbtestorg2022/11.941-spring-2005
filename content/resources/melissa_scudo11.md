@@ -8,6 +8,7 @@ description: This resource is the reaction paper by Melissa Scudo on the topics 
   is stalled in circles) without appearing too aggressive'.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/0f29f5d6260ddefab01b16ffe6813129_melissa_scudo11.pdf
 file_type: application/pdf
+parent_uid: 025decc2-3746-51df-f1f2-1fd5ad489b6e
 resourcetype: Document
 title: melissa_scudo11.pdf
 uid: 0f29f5d6-260d-defa-b01b-16ffe6813129

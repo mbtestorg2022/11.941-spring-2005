@@ -4,6 +4,7 @@ description: This resource is the reaction paper by Jeevan Sahota on the topic '
   Risk and Public Trust'.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/c98554960e34c935a39fff63faeb9e2b_jeevan_sahota6.pdf
 file_type: application/pdf
+parent_uid: 025decc2-3746-51df-f1f2-1fd5ad489b6e
 resourcetype: Document
 title: jeevan_sahota6.pdf
 uid: c9855496-0e34-c935-a39f-ff63faeb9e2b

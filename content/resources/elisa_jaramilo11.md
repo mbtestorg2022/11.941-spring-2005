@@ -5,6 +5,7 @@ description: 'This resource talks about the theme illustrated by this reaction p
   may lead to team collapse.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/c68ba232a5e47ea0a1969522fccd23d3_elisa_jaramilo11.pdf
 file_type: application/pdf
+parent_uid: 025decc2-3746-51df-f1f2-1fd5ad489b6e
 resourcetype: Document
 title: elisa_jaramilo11.pdf
 uid: c68ba232-a5e4-7ea0-a196-9522fccd23d3

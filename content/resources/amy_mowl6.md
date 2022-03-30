@@ -4,6 +4,7 @@ description: This resource is the reaction paper by the student on the topic 'Tr
   Risk and Public Trust'.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/f36507f5c6378aae8dc611a8dd7f8af0_amy_mowl6.pdf
 file_type: application/pdf
+parent_uid: 025decc2-3746-51df-f1f2-1fd5ad489b6e
 resourcetype: Document
 title: amy_mowl6.pdf
 uid: f36507f5-c637-8aae-8dc6-11a8dd7f8af0
